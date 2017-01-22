@@ -1,0 +1,11 @@
+[package]
+name = "tokio-echo-example"
+version = "0.1.0"
+authors = ["FuGangqiang <fu_gangqiang@qq.com>"]
+
+[dependencies]
+futures = "0.1"
+byteorder = "1.0.0"
+tokio-core = "0.1"
+tokio-proto = "0.1"
+tokio-service = "0.1"
